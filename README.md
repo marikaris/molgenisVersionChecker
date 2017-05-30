@@ -1,6 +1,6 @@
 # molgenisVersionChecker
 To run: 
-- Make sure requests is installed (pip install requests)<br/>
+- Make sure requests and BeautifulSoup are installed<br/>
 - Make sure you run python 3 <br/>
 
 `python3 molgenisVersionChecker.py`
